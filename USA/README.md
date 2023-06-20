@@ -7,3 +7,5 @@ The USA has a number of different resources for obtaining respiratory surveillan
 - [NREVSS](https://www.cdc.gov/surveillance/nrevss/index.html) is the National respiratory and enteric virus surveillance system which contains data on several respiratory viruses. [RSV data](https://data.cdc.gov/Laboratory-Surveillance/Respiratory-Syncytial-Virus-Laboratory-Data-NREVSS/52kb-ccu2), which is currently included in this code, is collected from approximately 600 public health and clinical labs across the US covering the period of 2010-2020. This data also provides information on the diagnostic test used (antigen or PCR). 
 
 - [ILINet](https://gis.cdc.gov/grasp/fluview/main.html) provides influenza like illness data over the period of 1997-2022. I have not currently cleaned and merged this data yet, but will in future. 
+
+The script data_cleaning_USA.R requires the user to download the data from the above links and replace the read_csv() commands in the script to the location of where the downloaded data sits on your PC. 
