@@ -4,4 +4,4 @@ Governments of many countries collect high quality surveillance data on respirat
 
 - [Canada](https://www.canada.ca/en/public-health/services/surveillance/respiratory-virus-detections-canada.html)
 
-- United States of America: [FluView](https://www.cdc.gov/flu/weekly/fluviewinteractive.htm) and [NREVSS](https://www.cdc.gov/surveillance/nrevss/index.html)
+- United States of America: [FluView](https://www.cdc.gov/flu/weekly/fluviewinteractive.htm), [NREVSS](https://www.cdc.gov/surveillance/nrevss/index.html) and [ILINet](https://gis.cdc.gov/grasp/fluview/main.html).
